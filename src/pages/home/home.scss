@@ -1,0 +1,20 @@
+page-home {
+    ion-header
+    {
+        -webkit-text-fill-color: white;
+        background-color: black;
+        height: 50px;
+        text-align: center 
+    }
+    p
+    {
+        text-align: center;
+        -webkit-text-fill-color: gray
+    }
+    ion-footer
+    {
+        text-align: center;
+        background-color:darkgray;
+        -webkit-text-fill-color: black
+    }
+}

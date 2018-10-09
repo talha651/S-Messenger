@@ -1,0 +1,7 @@
+{
+  "name": "smessenger",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
